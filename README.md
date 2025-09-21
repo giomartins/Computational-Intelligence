@@ -6,7 +6,7 @@ Professor: [Cristiano Leite de Castro](https://scholar.google.com.br/citations?u
 
 ## Subjects:
 
-- Introduction:
+- IntroductionW
 - Machine Learning Foundamentals
 - Linear Regression
 - Classification
